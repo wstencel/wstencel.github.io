@@ -5,6 +5,8 @@ description: My notes
 
 
 /***
+|_col1_  |  _col2_      |   _col3_            |
+|--------|--------------|---------------------|
 |This is | can I make a | let's see how this  |
 |a test  | table?       | works.              |
 ***/

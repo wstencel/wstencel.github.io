@@ -4,7 +4,10 @@ description: My notes
 ---
 
 
-
+---
+This is | can I make a | let's see how this 
+a test  | table?       | works.
+---
 
 
 

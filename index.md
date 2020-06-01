@@ -6,9 +6,11 @@ description: the index page in the root directory
 ![My Picture](/pics/wss123.jpg)
 
 
-Some course material:
+Notes and information pages:
 
 - [time series analysis](/timeseries/index.md)
+
+- [Statistics for evaluating various regression models](/regressioneval/index.md)
 
 
 Another repository. I'm not using it right now.
